@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: hello-cpp
+Version: 1.0.0
+Summary: a minimal example package (cpp version)
+Home-page: UNKNOWN
+Author: phylanx
+License: MIT
+Description: version 1.0.0
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

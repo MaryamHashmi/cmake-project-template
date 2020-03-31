@@ -1,0 +1,8 @@
+include *.md
+include build-and-run
+graft src
+graft lib
+graft test
+graft include
+recursive-include doc *
+recursive-include bin *
